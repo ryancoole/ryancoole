@@ -14,7 +14,7 @@ My name is Ryan Coole and I am a System Application Support Developer. I am from
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryancoole&theme=dark" height="260px"/><img align="center" src="https://github-readme-stats.vercel.app/api//?username=ryancoole&theme=dark" height="260px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryancoole&theme=dark" height="200px"/><img align="center" src="https://github-readme-stats.vercel.app/api//?username=ryancoole&theme=dark" height="200px"/>
 
 ## :wrench: Technologies & Tools 
 
