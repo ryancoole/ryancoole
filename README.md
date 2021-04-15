@@ -2,15 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ryan Coole and I am a System Application Support Developer. I am from the Isle of Man, living in England and currently working at Committed Giving. You can find me on Twitter [![Twitter][1.2]][1], or on LinkedIn [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (CLICK ME)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (CLICK ME)
-
-<!-- Links to your social media accounts -->
-[1]: https://twitter.com/RyanCoole96
-[2]: https://www.linkedin.com/in/ryancoole/
+My name is Ryan Coole and I am a System Application Support Developer. I am from the Isle of Man, living in England and currently working at Committed Giving. You can find me on [![Twitter: RyanCoole96](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RyanCoole96), or on [![Linkedin: ryancoole](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryancoole/).
 
 ## :chart_with_upwards_trend: GitHub Stats
 
