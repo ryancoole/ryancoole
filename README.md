@@ -10,28 +10,22 @@ My name is Ryan Coole and I am a Systems Developer. I am from the Isle of Man, l
 
 ## :wrench: Technologies & Tools 
 
-![](https://img.shields.io/badge/Tool-.NET_Framework-informational?style=flat&logo=.NET&logoColor=white&color=512BD4)
 ![](https://img.shields.io/badge/Language-C_Sharp-informational?style=flat&logo=C-Sharp&logoColor=white&color=239120)
-![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/Tool-Crystal_Reports-informational?style=flat&logo=SAP&logoColor=white&color=0FAAFF)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Tool-Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=CC2927)
-![](https://img.shields.io/badge/Language-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=5391FE)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Language-R-informational?style=flat&logo=R&logoColor=white&color=276DC3)
 ![](https://img.shields.io/badge/Tool-Visual_Studio-informational?style=flat&logo=Visual-Studio&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078d6)
 
 ## :nerd_face: Interests
 
 - :telescope: Astronomy
-- :martial_arts_uniform: Brazilian Jiu-Jitsu
 - :soccer: Football
+- :martial_arts_uniform: Martial Arts
 - :books: Reading
 - :running_man: Running
 - :swimming_man: Swimming
-- :man_cartwheeling: Taekwondo
 - :video_game: Video Games
 
 <!--
