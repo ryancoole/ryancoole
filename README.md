@@ -15,8 +15,6 @@ My name is Ryan Coole and I am a Systems Developer. I am from the Isle of Man, l
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Tool-Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=CC2927)
-![](https://img.shields.io/badge/Tool-Visual_Studio-informational?style=flat&logo=Visual-Studio&logoColor=white&color=5C2D91)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078d6)
 
 ## :nerd_face: Interests
 
