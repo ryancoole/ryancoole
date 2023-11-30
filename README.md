@@ -1,8 +1,8 @@
-[![Header](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg "Header")](https://some-url.dev/)
+![Header](https://github.com/ryancoole/ryancoole/assets/49243094/2c892e61-0e5f-4c7b-874c-16a4a7003994)
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Failt erriu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ryan Coole and I am a Systems Developer. I am from the Isle of Man, living in England and currently working at CommittedGiving Ltd. You can find me on [![Linkedin: ryancoole](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryancoole/).
+I am from the Isle of Man, living in England and currently working at CommittedGiving Ltd. You can find me on [![Linkedin: ryancoole](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryancoole/).
 
 ## :chart_with_upwards_trend: GitHub Stats
 
