@@ -1,14 +1,13 @@
-![Header](https://github.com/ryancoole/ryancoole/assets/49243094/2c892e61-0e5f-4c7b-874c-16a4a7003994)
+![Header](https://github.com/ryancoole/ryancoole/assets/49243094/731eeeeb-c64c-419d-b141-d0b387fcac71)
 
-# Failt erriu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center" style="border-bottom: 0;">Failt erriu, I'm Ryan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">A Systems Developer from the Isle of Man, based in Kent, England.</h3>
 
-I am from the Isle of Man, living in England and currently working at CommittedGiving Ltd. You can find me on [![Linkedin: ryancoole](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryancoole/).
-
-## :chart_with_upwards_trend: GitHub Stats
+### :chart_with_upwards_trend: GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryancoole&theme=dark" height="235px"/><img align="center" src="https://github-readme-stats.vercel.app/api//?username=ryancoole&theme=dark" height="235px"/>
 
-## :wrench: Technologies & Tools 
+### :wrench: Technologies & Tools 
 
 ![](https://img.shields.io/badge/Language-C_Sharp-informational?style=flat&logo=C-Sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
@@ -16,7 +15,7 @@ I am from the Isle of Man, living in England and currently working at CommittedG
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Tool-Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=CC2927)
 
-## :nerd_face: Interests
+### :nerd_face: Interests
 
 - :telescope: Astronomy
 - :soccer: Football
