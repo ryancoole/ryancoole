@@ -1,6 +1,6 @@
-# Hi, I'm Ryan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center" style="border-bottom: 0;">Hi, I'm Ryan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-I'm a Systems Developer from the Isle of Man, based in Kent, England.
+<p align="center">I'm a Systems Developer from the Isle of Man, based in Kent, England.</p>
 
 ---
 
